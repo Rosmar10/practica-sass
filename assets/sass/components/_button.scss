@@ -1,0 +1,24 @@
+
+.boton{
+   display: flex;
+   flex-direction: column;
+   text-align: center;
+   
+   h3{
+      font: $ralewey-bold-large;
+      font-size: 30px;
+      margin-top: 40px;
+   }
+   .btn{
+      border-style: none;
+      padding: 1rem 2rem;
+      border-radius: 70px;
+      font-size: 3rem;
+      font-weight: 300;
+      text-transform: uppercase;
+      font: $ralewey-bold-medium;
+      margin-bottom: 20px;
+      color: $gray;
+   }
+}
+

@@ -1,0 +1,40 @@
+@import 'variable';
+
+.footer{
+    background-color: $gray;
+}
+
+.header{
+    background-color: $tomate1;
+    color: $white;
+}
+.nosotros{
+    background-color: $tomate1;
+    color: $white;
+}
+
+.container-info{
+    .organicos{
+        background-color: $gr2;
+        color: $white;
+    }
+}
+
+
+.boton{
+    background-color: $tomate1;
+    h3{
+        color: $white;
+    }
+}
+
+.container-info{
+    .tomates{
+        color: $gray;
+    }
+}
+
+.trabajadores{
+    color: $gray;
+}
+

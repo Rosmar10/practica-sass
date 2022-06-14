@@ -1,0 +1,93 @@
+.nosotros {
+    text-align: center;
+    padding: 20px;
+    h1{
+        font: $ralewey-regular-large;
+        font-size: 90px;
+    
+    }
+}
+
+header{
+    padding: 100px;
+}
+
+.container-info{
+    display: flex;
+    flex-direction: column;
+
+    .organicos{
+        padding: 20px;
+    }
+    
+    
+    p{
+        padding-left: 20%;
+        padding-right: 20%;
+        margin-top: 20px;
+        text-align: justify;
+        font: $ralewey-light-medium;
+        font-size: 20px;
+    }
+    h3 {
+        padding-left: 20%;
+        padding-right: 20%;
+        margin: 30px;
+        text-align: center;
+        font: $ralewey-bold-medium;
+        font-size: 30px;
+    }
+
+}
+
+.trabajadores{
+    margin: 10px;
+    text-align: center;
+
+    .javiera{
+        text-align: center;
+        align-items: center;
+    }
+    p{
+        padding-left: 20%;
+        padding-right: 20%;
+        margin-top: 20px;
+        text-align: justify;
+        font: $ralewey-light-medium;
+        font-size: 20px;
+    }
+    h3 {
+        padding-left: 20%;
+        padding-right: 20%;
+        margin: 20px;
+        font: $ralewey-bold-medium;
+        font-size: 30px;
+    }
+    .imagen1 {
+        display: flex;
+       margin: 50px;
+       height: 300px;
+       justify-content: center;
+    }
+    .imagen2{
+        display: flex;
+        margin: 50px;
+        height: 300px;
+        justify-content: center;
+    }
+}
+
+.container-info{
+    .imagen-1{
+        display: flex;
+        margin: 50px;
+        height: 400px;
+        justify-content: center;
+    }
+    .imagen-2{
+        display: flex;
+        margin: 50px;
+        height: 300px;
+        justify-content: center;
+    }
+}
